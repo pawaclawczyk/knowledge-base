@@ -22,6 +22,8 @@
 
 #### Blogs
 
+* [Netflix Research / Technology Blog](https://research.netflix.com/)
+
 * [All Things Distributed - Werner Vogels](https://www.allthingsdistributed.com)
 
   Keywords: AWS
