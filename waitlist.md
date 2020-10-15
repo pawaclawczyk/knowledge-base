@@ -29,9 +29,13 @@
 
 #### Papers
 
+* [Aerospike: Architecture of a Real-Time Operational DBMS](http://www.vldb.org/pvldb/vol9/p1389-srinivasan.pdf)
+
+  Keywords: Memory-Based Database, Low Latency
+
 * [FASTER: A Concurrent Key-Value Store with In-Place Updates](https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/)
 
-  Keywords: key-Value Store, Cache, Low Latency
+  Keywords: Key-Value Store, Cache, Low Latency
 
 #### Books
 
