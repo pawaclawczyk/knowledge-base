@@ -5,5 +5,6 @@ It's a curated list of articles, books, conference papers and videos touching va
 * [General: papers, datasets, conferences and blogs](general.md)
 * [Database](database.md)
 * [Privacy Analytics](privacy-analytics.md)
-* [Lang/Go](lang/go.md)
+* [Distributed Systems / CRDT](distsys/crdt.md)
+* [Languages / Go](lang/go.md)
 * [Waitlist: stuff to review](waitlist.md)

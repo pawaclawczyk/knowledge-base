@@ -22,7 +22,9 @@
 
 #### Blogs
 
-* [Netflix Research / Technology Blog](https://research.netflix.com/)
+* [Netflix Research Articles](https://research.netflix.com/articles)
+
+* [Linkedin Engineering Blog](https://engineering.linkedin.com/blog)
 
 * [All Things Distributed - Werner Vogels](https://www.allthingsdistributed.com)
 
