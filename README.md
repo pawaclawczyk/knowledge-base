@@ -6,5 +6,6 @@ It's a curated list of articles, books, conference papers and videos touching va
 * [Database](database.md)
 * [Privacy Analytics](privacy-analytics.md)
 * [Distributed Systems / CRDT](distsys/crdt.md)
+* [Cloud / AWS](cloud/aws.md)
 * [Languages / Go](lang/go.md)
 * [Waitlist: stuff to review](waitlist.md)
