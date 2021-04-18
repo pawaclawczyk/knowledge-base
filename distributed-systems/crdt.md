@@ -1,4 +1,4 @@
-# CRDT (Conflix-Free Replicated Data Types)
+# CRDT (Conflict-Free Replicated Data Types)
 
 * [CRDTs: The Hard Parts - Martin Kleppman at Hydra 2020](https://www.youtube.com/watch?v=PMVBuMK_pJY)
 

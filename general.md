@@ -1,8 +1,8 @@
 ## General
 
-#### Reaserch papers
+#### Research papers
 
-* [Facebook Resaerch](https://research.fb.com)
+* [Facebook Research](https://research.fb.com)
 
 * [Google Research](https://research.google)
 
